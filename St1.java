@@ -10,5 +10,9 @@ class St1{
 
 
        System.out.println("Mm");
+
+       System.out.println("Mm Yash");
+
+
     }
 }
